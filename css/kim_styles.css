@@ -1,0 +1,23 @@
+/*****Carousel*****/
+
+/*****Calendar*****/
+.col-sm-4{
+    padding-bottom: 30px;
+    border-radius: 0;
+}
+.parent img {
+  border-radius: 0;
+}
+
+.family-calendar object {
+	width: 800px;
+	
+}
+
+
+@media only screen and (max-width: 700px) {
+.family-calendar object {
+	width: 500px;
+	
+}
+}
