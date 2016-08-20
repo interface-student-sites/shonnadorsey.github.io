@@ -46,6 +46,14 @@ button {
   color: purple;
 }
 
+#button-two{
+  height: 30px;
+  width: 60px;
+  border-radius: 10px;
+  background: red;
+  color: white;
+}
+
 footer {
   clear: both;
 }
