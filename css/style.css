@@ -5,7 +5,8 @@
 }
 
 header, footer {
-  background: blue;
+  background-image: url("https://static.pexels.com/photos/127160/pexels-photo-127160.jpeg");
+  background-size: cover;
   color: white;
   text-align:center;
   padding:10px;
