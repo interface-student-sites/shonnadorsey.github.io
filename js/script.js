@@ -1,9 +1,9 @@
 $(document).ready(function(){
 	$('.button').click(function(){
-		$('img').fadeOut(1000);	
+		$('img').fadeOut('slow');	
 	});
 	$('#button-two').click(function(){
-		$('img').fadeIn(1000);	
+		$('img').fadeIn('slow');	
 	});
 	
 });
